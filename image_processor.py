@@ -185,7 +185,7 @@ class CozeProcessor:
             json_str = json.dumps(content, ensure_ascii=False)
             logger.info(f"[Coze Wrapper] get_payload , json_str={json_str}")
             payload =  {
-                        "bot_id": "7388480821546106918",
+                        "bot_id": conf().get('coze_bot_id', ''),
                         "user_id": session_id,
                         "stream": False,
                         "auto_save_history":True,
