@@ -1,0 +1,27 @@
+{
+    "summary_image": {
+        "enable": true,
+        "instruct":"$总结内容",
+        "prompt": "总结这张图中的内容"
+    },
+    "solve_problem": {
+        "enable": true,
+        "instruct":"$解答习题",
+        "prompt": "解答这张图中的习题"
+    },
+    "redraw_image": {
+        "enable": true,
+        "instruct":"$重绘风格",
+        "prompt": "重绘这张图"
+    },
+    "finetune_image": {
+        "enable": true,
+        "instruct":"$微调内容",
+        "prompt": "微调这张图"
+    },
+    "analysis_image": {
+        "enable": true,
+        "instruct":"$分析数据",
+        "prompt": "分析这张图中数据"
+    }
+}
