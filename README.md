@@ -5,7 +5,7 @@ COW 插件
 # 插件安装
 微信对话框中输入
 ```sh
-#installp https://github.com/wangxyd/nicecoze.git
+#installp https://github.com/binllm18/cozewrapper.git
 #scanp
 ```
 也可直接将文件 所有文件 复制到 `plugins/coze_wrapper` 目录下。
