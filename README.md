@@ -1,3 +1,5 @@
+## 用Coze API打造强大的微信图片助手教程：https://waytoagi.feishu.cn/wiki/A4sJweE25iZsBDkziG1crnkAnHf
+
 ## 插件说明
 COW 插件
 基于 Coze 的多模态封装插件，目前仅支持图片的处理。
